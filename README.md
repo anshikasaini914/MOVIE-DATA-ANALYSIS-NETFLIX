@@ -38,25 +38,4 @@ What is the most common genre on Netflix?
 Which movie has the highest/lowest popularity?
 In which year were the most movies released?
 Which movie received the highest average rating?
-About
-Analysis of a dataset of over 9,000 movies available on Netflix.
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-Jupyter Notebook
-100.0%
-Footer
